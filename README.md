@@ -37,11 +37,16 @@
        ꒰‧⁺ ✎ ᴜsᴇʀs ᴄᴀɴ ɪɴᴛᴇʀᴀᴄᴛ ᴡɪᴛʜ ᴀ ᴄᴏᴍᴍᴜɴɪᴛʏ ᴛʜᴀᴛ ᴇɴᴄᴏᴜʀᴀɢᴇs ᴠᴏʟᴜɴᴛᴇᴇʀ ᴡᴏʀᴋ ᴀɴᴅ ᴏʙᴛᴀɪɴ ɪɴғᴏʀᴍᴀᴛɪᴏɴ ᴏɴ ʜᴏᴡ ᴛᴏ ɪᴍᴘʀᴏᴠᴇ ᴛʜᴇɪʀ ʟɪᴠᴇs ᴀɴᴅ ᴛʜᴇ ʟɪᴠᴇs ᴏғ ᴏᴛʜᴇʀs ᴀʀᴏᴜɴᴅ 
        ᴛʜᴇᴍ.
    </p>
-  </p>
+  </p><br>
   
   <div>
     <video src="https://user-images.githubusercontent.com/86667062/209570858-c9fb026b-c6a9-485e-b12a-904cf1a00cb5.mp4">
-  </div>
+  </div><br>
+  
+  <p>
+     ੈ  ғɪɢᴍᴀ ᴏғ ᴛʜᴇ ʟɪɴᴋ - ᴛᴇsᴛ ʏᴏᴜʀsᴇʟғ ᴛᴏᴏ! ꒱ .* ❞ : <br>
+    https://www.figma.com/proto/rgltIj0oJqHAjyUxnlNTwp/CHEF?node-id=1%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2
+  </p>
   
 </div>
 
