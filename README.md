@@ -6,8 +6,9 @@
   
 </div>  
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Picture2](https://user-images.githubusercontent.com/86667062/209568151-5a7508be-b3af-40b4-9eb0-34dc24d3af0b.png)
+<div  align="center">
+  <img height="200px" src="https://github.com/LlynS2/CHEF/assets/86667062/28130745-1223-413a-ac85-19f8d1439023">
+</div><br><br>
 
 <div>
   
